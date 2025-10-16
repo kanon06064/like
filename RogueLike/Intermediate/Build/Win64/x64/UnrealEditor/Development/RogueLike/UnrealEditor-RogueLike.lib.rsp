@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RogueLike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\G2343\Documents\GitHub\like\RogueLike\Intermediate\Build\Win64\x64\RogueLikeEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\G2343\Documents\GitHub\like\RogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\RogueLike\RogueLike.init.gen.cpp.obj"
+"C:\Users\G2343\Documents\GitHub\like\RogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\RogueLike\RogueLikeGameModeBase.gen.cpp.obj"
+"C:\Users\G2343\Documents\GitHub\like\RogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\RogueLike\RogueLike.cpp.obj"
+"C:\Users\G2343\Documents\GitHub\like\RogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\RogueLike\RogueLikeGameModeBase.cpp.obj"
+"C:\Users\G2343\Documents\GitHub\like\RogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\RogueLike\Default.rc2.res"
+/OUT:"C:\Users\G2343\Documents\GitHub\like\RogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\RogueLike\UnrealEditor-RogueLike.lib"
