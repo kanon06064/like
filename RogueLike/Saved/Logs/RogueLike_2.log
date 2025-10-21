@@ -1150,3 +1150,61 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.10.21-00.43.48:285][870]LogSlate: Window 'コンテンツブラウザ' being destroyed
 [2025.10.21-00.43.49:360][931]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
 [2025.10.21-00.44.04:404][809]LogSlate: Window 'リビジョンコントロールにログイン' being destroyed
+[2025.10.21-00.44.33:238][ 85]LogSlate: Window '新規レベル' being destroyed
+[2025.10.21-00.44.33:245][ 85]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.21-00.44.33:252][ 85]LightingResults: New page: ライティングのビルド
+[2025.10.21-00.44.33:252][ 85]LoadErrors: New page: マップをロード中: Template_Default.umap
+[2025.10.21-00.44.33:271][ 85]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-00.44.33:272][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-00.44.33:276][ 85]MapCheck: New page: マップをチェック
+[2025.10.21-00.44.33:276][ 85]LightingResults: New page: <何も選択されていません>
+[2025.10.21-00.44.33:280][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.21-00.44.33:286][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.21-00.44.33:369][ 85]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2025.10.21-00.44.33:369][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.21-00.44.33:369][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.21-00.44.33:369][ 85]LogAIModule: Creating AISystem for world Untitled_1
+[2025.10.21-00.44.33:449][ 85]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.21-00.44.33:458][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.10.21-00.44.33:459][ 85]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.21-00.44.33:459][ 85]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.142ミリ秒かかりました。
+[2025.10.21-00.44.45:573][475]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2025.10.21-00.44.45:580][475]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2025.10.21-00.44.45:585][475]LogContentBrowser: Renaming the item being created (Deferred Item: 新規フォルダ).
+[2025.10.21-00.44.49:298][475]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Level
+[2025.10.21-00.44.49:303][475]LogContentBrowser: End creating deferred item 新規フォルダ
+[2025.10.21-00.44.58:259][475]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2025.10.21-00.44.58:383][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/TestMap" FILE="../../../../../../Users/G2343/Documents/GitHub/like/RogueLike/Content/Level/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.21-00.44.58:400][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.21-00.44.58:409][475]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.005815 seconds
+[2025.10.21-00.44.58:420][475]LogSavePackage: Moving output files for package: /Game/Level/TestMap
+[2025.10.21-00.44.58:420][475]LogSavePackage: Moving '../../../../../../Users/G2343/Documents/GitHub/like/RogueLike/Saved/TestMapFFFF08DE405E17E2978300929B3BE0BF.tmp' to '../../../../../../Users/G2343/Documents/GitHub/like/RogueLike/Content/Level/TestMap.umap'
+[2025.10.21-00.44.58:579][475]LogFileHelpers: Saving map 'TestMap' took 0.315
+[2025.10.21-00.44.58:579][475]Cmd: MAP LOAD FILE="../../../../../../Users/G2343/Documents/GitHub/like/RogueLike/Content/Level/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.21-00.44.58:579][475]LightingResults: New page: ライティングのビルド
+[2025.10.21-00.44.58:579][475]LoadErrors: New page: マップをロード中: TestMap.umap
+[2025.10.21-00.44.58:594][475]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-00.44.58:594][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-00.44.58:595][475]MapCheck: New page: マップをチェック
+[2025.10.21-00.44.58:595][475]LightingResults: New page: <何も選択されていません>
+[2025.10.21-00.44.58:600][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.21-00.44.58:602][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.21-00.44.58:607][475]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2025.10.21-00.44.58:607][475]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.21-00.44.58:607][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.21-00.44.58:607][475]LogAIModule: Creating AISystem for world TestMap
+[2025.10.21-00.44.58:661][475]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.21-00.44.58:667][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.21-00.44.58:669][475]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.21-00.44.58:669][475]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.084ミリ秒かかりました。
+[2025.10.21-00.44.58:672][475]AssetCheck: New page: アセット保存：TestMap
+[2025.10.21-00.44.58:672][475]LogContentValidation: Display: /Script/Engine.World /Game/Level/TestMap.TestMap を検証しています
+[2025.10.21-00.45.00:513][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-00.45.00:588][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/TestMap" FILE="../../../../../../Users/G2343/Documents/GitHub/like/RogueLike/Content/Level/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.21-00.45.00:605][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.21-00.45.00:612][568]LogSavePackage: Moving output files for package: /Game/Level/TestMap
+[2025.10.21-00.45.00:612][568]LogSavePackage: Moving '../../../../../../Users/G2343/Documents/GitHub/like/RogueLike/Saved/TestMapCA2E02B14AA1CE647BCEA7AD3815382E.tmp' to '../../../../../../Users/G2343/Documents/GitHub/like/RogueLike/Content/Level/TestMap.umap'
+[2025.10.21-00.45.00:621][568]LogFileHelpers: Saving map 'TestMap' took 0.033
+[2025.10.21-00.45.00:629][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms
+[2025.10.21-00.45.00:631][568]AssetCheck: New page: アセット保存：TestMap
+[2025.10.21-00.45.00:631][568]LogContentValidation: Display: /Script/Engine.World /Game/Level/TestMap.TestMap を検証しています
