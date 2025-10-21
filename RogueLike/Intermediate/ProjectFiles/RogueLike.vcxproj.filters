@@ -23,9 +23,18 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\RogueLike">
       <UniqueIdentifier>{DAE8C95A-7909-32B0-B103-6BE14BE8E5DF}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\RogueLike\MyClass.cpp">
+      <Filter>Source\RogueLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RogueLike\MyClass.h">
+      <Filter>Source\RogueLike</Filter>
+    </ClInclude>
     <None Include="..\..\Source\RogueLike\RogueLike.Build.cs">
       <Filter>Source\RogueLike</Filter>
     </None>
