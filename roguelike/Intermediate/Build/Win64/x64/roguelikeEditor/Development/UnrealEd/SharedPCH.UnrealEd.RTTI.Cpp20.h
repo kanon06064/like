@@ -1,3 +1,0 @@
-// PCH for Editor/UnrealEd/Public/UnrealEdSharedPCH.h
-#include "C:/Users/G2343/Documents/GitHub/like/roguelike/Intermediate/Build/Win64/x64/roguelikeEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.RTTI.Cpp20.h"
-#include "Editor/UnrealEd/Public/UnrealEdSharedPCH.h"
